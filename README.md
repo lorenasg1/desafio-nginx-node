@@ -1,4 +1,4 @@
-# Desafio nginx-nodejs
+# Desafio docker nginx-nodejs
 
 Nginx como proxy reverso de app NodeJS, que traz informações do banco de dados MySQL.
 
